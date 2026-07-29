@@ -1,0 +1,16 @@
+# C/C++ Executable / Binary Files (Derleme çıktıları)
+*.out
+*.o
+*.app
+app
+main
+
+# Build / IDE Directories
+.vscode/
+.idea/
+build/
+bin/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
