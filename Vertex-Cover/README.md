@@ -49,7 +49,7 @@ Yönlendirilmemiş bir $G = (V, E)$ çizgesinde **Vertex Cover**, çizgedeki her
 ```text
 Vertex-Cover/
 ├── README.md                 # Bu genel bilgilendirme dokümanı
-├── Approx-2/
+├── 2-Approximation/
 │   ├── main.cpp              # 2-Approximation C++ kaynak kodu
 │   └── README.md             # 2-Approximation detaylı analizi ve sözde kodu
 └── Exact/
