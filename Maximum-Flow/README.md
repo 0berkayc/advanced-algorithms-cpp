@@ -92,17 +92,18 @@ Maksimum Akış Problemi
 ## 6. Örnek Modül Dosya Yapısı
 
 ```text
-max_flow_module/
-├── include/
-│   ├── FordFulkerson.hpp
-│   ├── EdmondsKarp.hpp
-│   └── Dinic.hpp
-├── src/
-│   ├── FordFulkerson.cpp
-│   ├── EdmondsKarp.cpp
-│   └── Dinic.cpp
-├── tests/
-│   └── main_benchmark.cpp    # Üç algoritmanın sürelerini ve doğru sonuçlarını doğrulayan test dosyası
-└── README.md                 # Karşılaştırma ve dokümantasyon rehberi
+Maximum-Flow/
+├── Dinic/
+│   ├── main.cpp
+│   ├── README.md
+│   
+├── Edmonds-Karp/
+│   ├── main.cpp
+│   ├── README.md
+│   
+├── Ford-Fulkerson/
+│   └── main.cpp
+│   ├── README.md
+└── README.md 
 
 ```
